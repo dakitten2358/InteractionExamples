@@ -1,0 +1,3 @@
+[submodule "Plugins/InteractiveItems"]
+	path = Plugins/InteractiveItems
+	url = https://github.com/dakitten2358/InteractiveItems.git
